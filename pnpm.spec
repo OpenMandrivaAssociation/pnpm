@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:		pnpm
-Version:	10.10.0
+Version:	11.19.0
 Release:    1
 Summary:        Fast, disk space efficient package manager
 License:        MIT
